@@ -7,7 +7,6 @@ I created a covid website that helps people to know about the current number act
 ## Home page
 ![Screenshot 2022-06-10 195707](https://user-images.githubusercontent.com/104320194/173087862-70add3cb-77f6-4858-b94c-1c744f598450.png)
 ![Screenshot 2022-06-10 195737](https://user-images.githubusercontent.com/104320194/173087887-35810f16-b3d8-4dd9-8339-3ac37a19d3c1.png)
-![Screenshot 2022-06-09 184052](https://user-images.githubusercontent.com/104320194/173087899-6eb8e80f-8a20-4604-b074-216aef620dba.png)
 ![Screenshot 2022-06-10 195917](https://user-images.githubusercontent.com/104320194/173087911-7b087e86-1926-4c8f-a82f-8aaa55f0b448.png)
 ![Screenshot 2022-06-10 195940](https://user-images.githubusercontent.com/104320194/173087938-97656673-523c-41ec-8989-121468783bca.png)
 
